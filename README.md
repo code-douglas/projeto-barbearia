@@ -4,7 +4,7 @@
 
 Este foi um projeto simples que desenvolvi com intuito de praticar o uso do SASS
 
-[Link do vercel onde o mesmo está hospedado:](barbearia-olive.vercel.app)
+Link do vercel onde o mesmo está hospedado: [text](barbearia-olive.vercel.app)
 
 ## Tecnologias Ultilizadas
 
