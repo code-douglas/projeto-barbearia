@@ -12,6 +12,7 @@ Este foi um projeto simples que desenvolvi com intuito de praticar o uso do SASS
 ## Site 
 
 ## Header
+
 ![Texto Alternativo](/project_images/header.png)
 
 ## Horario de funcionamento
