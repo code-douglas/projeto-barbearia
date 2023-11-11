@@ -4,8 +4,6 @@
 
 Este foi um projeto simples que desenvolvi com intuito de praticar o uso do SASS
 
-[barbearia-olive.vercel.app](barbearia-olive.vercel.app)
-
 ## Tecnologias Ultilizadas
 
 **HTML** : Linguagem de marcação de Hipertexto, utilizado para estruturar o site.
